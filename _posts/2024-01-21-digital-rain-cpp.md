@@ -25,4 +25,4 @@ A bullet list can be created using like this:
 
 You can add an image that has been uploaded to the repository in a /docs/assets/images folder.
 
-![Robin](https://raw.githubusercontent.com/melgineer/digital-rain-cpp/main/docs/assets/images/Robin_260921_1200.jpg)
+<img src="https://raw.githubusercontent.com/melgineer/digital-rain-cpp/main/docs/assets/images/Robin_260921_1200.jpg" width="100" height="100">
