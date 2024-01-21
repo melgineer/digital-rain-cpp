@@ -1,14 +1,13 @@
 ---
 layout: post
-title: A Digital Rain Project in Modern C++
-tags: cpp digitalrain coding project
+title: A Project in Modern C++
+tags: cpp coding project
 categories: demo
 ---
 
-This is a paragraph in my first post.
-Show off your Markdown!
+This is my first paragraph..
 
-## Heading Two 
+## Heading 2
 
 Any text with no empty lines between will become a paragraph.
 Leave an blank line between headings and paragraphs.
