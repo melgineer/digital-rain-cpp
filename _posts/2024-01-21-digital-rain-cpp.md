@@ -19,9 +19,9 @@ Hyperlinks look like this [GitHub Help](https://help.github.com/).
 
 A bullet list can be created using like this:
 
-- dog
-- cat
-- muffin
+- vectors
+- algorithms
+- iterators
 
 You can add an image that has been uploaded to the repository in a /docs/assets/images folder.
 
