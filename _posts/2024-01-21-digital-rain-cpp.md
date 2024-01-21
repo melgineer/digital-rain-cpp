@@ -7,26 +7,22 @@ categories: demo
 
 This is my first paragraph..
 
-## Heading 2
+## This is a Heading
 
-Any text with no empty lines between will become a paragraph.
-Leave an blank line between headings and paragraphs.
+This is a paragraph. Add an empty line to start a new paragraph.
+
 Font can be *Italic* or **Bold**.
+
 Code can be highlighted with `backticks`.
 
 Hyperlinks look like this [GitHub Help](https://help.github.com/).
 
-A bullet list is created using `*`, `+`, or `-`, like:
+A bullet list can be created using like this:
 
 - dog
 - cat
 - muffin
 
-A numbered list is created using a number + `.`, like:
-
-1. one
-2. two
-6. three
-2. four
+You can add an image that has been uploaded to the repository in a /docs/assets/images folder.
 
 ![Robin](https://raw.githubusercontent.com/melgineer/digital-rain-cpp/main/docs/assets/images/Robin_260921_1200.jpg)
