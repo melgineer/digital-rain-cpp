@@ -30,4 +30,4 @@ A numbered list is created using a number + `.`, like:
 6. three
 2. four
 
-![Robin](../assets/images/Robin_260921_1200.jpg)
+![Robin](https://github.com/melgineer/digital-rain-cpp/blob/main/assets/images/Robin_260921_1200.jpg)
