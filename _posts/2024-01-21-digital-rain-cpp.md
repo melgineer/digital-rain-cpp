@@ -17,7 +17,7 @@ Code can be highlighted with `backticks`.
 
 Hyperlinks look like this [GitHub Help](https://help.github.com/).
 
-A bullet list can be created using like this:
+A bullet list:
 
 - vectors
 - algorithms
